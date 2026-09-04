@@ -2,6 +2,11 @@
 
 A production-oriented REST API built with **FastAPI**, **SQLite**, **JWT authentication**, and **Argon2 password hashing**.
 
+## 🚀 Live Demo
+
+- **Live API:** https://fastapi-demo-production.up.railway.app
+- **Swagger UI:** https://fastapi-demo-production.up.railway.app/docs
+
 ## Features
 
 - RESTful User CRUD
@@ -79,4 +84,3 @@ Never commit `.env` or real secrets. The repository ignores `.env` by default.
 ## Tech stack
 
 Python 3 · FastAPI · Pydantic · SQLite · JWT · Argon2 · pytest · Uvicorn
-
