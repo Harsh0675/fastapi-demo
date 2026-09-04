@@ -9,6 +9,8 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      SECRET_KEY: ci-test-secret-not-used-in-production
 
     steps:
       - name: Checkout
