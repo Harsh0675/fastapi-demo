@@ -79,3 +79,4 @@ Never commit `.env` or real secrets. The repository ignores `.env` by default.
 ## Tech stack
 
 Python 3 · FastAPI · Pydantic · SQLite · JWT · Argon2 · pytest · Uvicorn
+
